@@ -1,4 +1,4 @@
-# Capstone-2-1
+# Task Manager
 
 ###### The project
 
