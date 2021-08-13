@@ -2,7 +2,7 @@
 
 ###### The project
 
-This project is a java program built as a project management system for a small structural engineering firm called “Poised”.
+This project is a java program built as a project management system for a small structural engineering firm called “Poised”. The program displays an understanding of object oriented programming (OOP) in java.
 
 ###### Usefulness
 
